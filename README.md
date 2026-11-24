@@ -81,8 +81,8 @@ Bu profilde; üretim ortamlarını değiştirmeden kanıta dayalı güvenlik dur
 <!-- BLOG-POST-LIST:START -->
 | Tarih | Makale |
 | :--- | :--- |
+| `24 Kas 2026` | [TenantBrief: Microsoft 365 Güvenlik Duruşunu ve Lisans İsrafını Tek Karar Yüzeyinde Buluşturmak](https://canercetinkaya.com/tr/blog/tenantbrief-m365-lisans-roi-uyumluluk-analizi/) |
 | `23 Kas 2026` | [Azure Firewall Premium: Secure AI ve Secure with AI Eklentisinin Kurumsal Mimari Analizi](https://canercetinkaya.com/tr/blog/azure-firewall-premium-secure-ai-secure-with-ai-2026/) |
-| `23 Kas 2026` | [TenantBrief: Salt Okunur M365 Lisans İsrafı, 6 Güvenlik Sütunu ve Doğrulanmış Standart Skorlama Mimarisi](https://canercetinkaya.com/tr/blog/tenantbrief-m365-lisans-roi-uyumluluk-analizi/) |
 | `16 Kas 2026` | [Microsoft Entra Conditional Access Policy Plans (Preview) ile Politika Yığınını Yönetilebilir Mimariye Dönüştürmek](https://canercetinkaya.com/tr/blog/entra-conditional-access-policy-plans-preview/) |
 | `14 Kas 2026` | [Microsoft Purview Referans Mimarisi [Bölüm 1/8]: Sınıflandırmadan Copilot Cowork'e Uçtan Uca Sebep-Sonuç Zinciri](https://canercetinkaya.com/tr/blog/microsoft-purview-referential-architecture-deep-dive/) |
 | `14 Kas 2026` | [Microsoft Purview Referans Mimarisi [Bölüm 2/8]: Sınıflandırma Motorları (MCE vs. DCS), Etiket Öncelik Hiyerarşisi ve Unified Catalog Yapılandırması](https://canercetinkaya.com/tr/blog/purview-mimari-seri-02-siniflandirma-motorlari-etiketleme-unified-catalog/) |
