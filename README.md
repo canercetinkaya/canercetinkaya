@@ -81,12 +81,12 @@ Bu profilde; üretim ortamlarını değiştirmeden kanıta dayalı güvenlik dur
 <!-- BLOG-POST-LIST:START -->
 | Tarih | Makale |
 | :--- | :--- |
+| `25 Kas 2026` | [Microsoft Intune Ignite 2026: Kurumsal Uç Noktalarda Yerel Yapay Zekâ Ajan Yönetişimi (Agent 365, Software Compliance ve MXC)](https://canercetinkaya.com/tr/blog/intune-ai-agent-governance-software-compliance-mxc-2026/) |
+| `25 Kas 2026` | [Microsoft Intune Ignite 2026: Cihaz Düzeyi Uygulama Envanteri, EAM Otomatik Güncellemeleri, App In-Use Detection ve CIS Windows 11 Denetimi](https://canercetinkaya.com/tr/blog/intune-app-inventory-eam-autoupdate-cis-benchmark-2026/) |
+| `25 Kas 2026` | [Microsoft Intune Ignite 2026: Microsoft Perception ile Doğal Dille İnceleme, Gerçek Zamanlı Envanter ve Remote Help Tanılama](https://canercetinkaya.com/tr/blog/intune-microsoft-perception-natural-language-investigation-2026/) |
+| `25 Kas 2026` | [Microsoft Intune Ignite 2026: Vulnerability Remediation Agent ve Microsoft Perception ile Maruziyet Azaltma](https://canercetinkaya.com/tr/blog/intune-vulnerability-remediation-agent-perception-2026/) |
+| `25 Kas 2026` | [Microsoft Intune Ignite 2026: Windows Server Yönetimi (Insider Preview), Windows Autopatch ve Azure Arc Sınırları](https://canercetinkaya.com/tr/blog/intune-windows-server-management-autopatch-arc-2026/) |
 | `24 Kas 2026` | [TenantBrief: Microsoft 365 Güvenlik Duruşunu ve Lisans İsrafını Tek Karar Yüzeyinde Buluşturmak](https://canercetinkaya.com/tr/blog/tenantbrief-m365-lisans-roi-uyumluluk-analizi/) |
-| `23 Kas 2026` | [Azure Firewall Premium: Secure AI ve Secure with AI Eklentisinin Kurumsal Mimari Analizi](https://canercetinkaya.com/tr/blog/azure-firewall-premium-secure-ai-secure-with-ai-2026/) |
-| `16 Kas 2026` | [Microsoft Entra Conditional Access Policy Plans (Preview) ile Politika Yığınını Yönetilebilir Mimariye Dönüştürmek](https://canercetinkaya.com/tr/blog/entra-conditional-access-policy-plans-preview/) |
-| `14 Kas 2026` | [Microsoft Purview Referans Mimarisi [Bölüm 1/8]: Sınıflandırmadan Copilot Cowork'e Uçtan Uca Sebep-Sonuç Zinciri](https://canercetinkaya.com/tr/blog/microsoft-purview-referential-architecture-deep-dive/) |
-| `14 Kas 2026` | [Microsoft Purview Referans Mimarisi [Bölüm 2/8]: Sınıflandırma Motorları (MCE vs. DCS), Etiket Öncelik Hiyerarşisi ve Unified Catalog Yapılandırması](https://canercetinkaya.com/tr/blog/purview-mimari-seri-02-siniflandirma-motorlari-etiketleme-unified-catalog/) |
-| `14 Kas 2026` | [Microsoft Purview Referans Mimarisi [Bölüm 3/8]: SharePoint ve OneDrive DLP — 6 Senaryo, İlk Misafir Erişimi Penceresi, DLP Rule Undo ve Temmuz 2025 UDP](https://canercetinkaya.com/tr/blog/purview-mimari-seri-03-sharepoint-onedrive-dlp-guest-access-udp/) |
 <!-- BLOG-POST-LIST:END -->
 
 ---
