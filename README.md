@@ -81,12 +81,12 @@ Bu profilde; üretim ortamlarını değiştirmeden kanıta dayalı güvenlik dur
 <!-- BLOG-POST-LIST:START -->
 | Tarih | Makale |
 | :--- | :--- |
+| `26 Kas 2026` | [Azure Confidential AI, Clean Rooms ve Project Nova (Ignite 2026): Vera Rubin NVL72, TDX Connect ve Sıfır Bilgi İspatı](https://canercetinkaya.com/tr/blog/azure-confidential-ai-vera-rubin-clean-rooms-project-nova-2026/) |
+| `26 Kas 2026` | [Azure Confidential Altyapı Mimarisi (Ignite 2026): AMD Turin v7, Intel TDX v6, Confidential AKS, Azure Local ve Backup](https://canercetinkaya.com/tr/blog/azure-confidential-infrastructure-amd-turin-v7-tdx-v6-aks-2026/) |
+| `26 Kas 2026` | [72 Saatte Bir 2027 Saldırısını Durdurmak: Microsoft Ignite 2026 Güvenlik Mimarisi Büyük Resmi (127 Yenilik Tam Rehberi)](https://canercetinkaya.com/tr/blog/microsoft-ignite-2026-security-architecture-complete-guide/) |
+| `26 Kas 2026` | [Windows İzolasyon ve Kuantum Sonrası Gelecek (Ignite 2026): MXC Learning Mode, Local Micro VMs, Post-Quantum TLS ve Windows Server 2028](https://canercetinkaya.com/tr/blog/windows-mxc-learning-mode-local-micro-vms-post-quantum-tls-2026/) |
+| `26 Kas 2026` | [Windows Platform Dayanıklılığı (Ignite 2026): User-Mode Endpoint Security Platform, Administrator Protection ve Baseline Protection](https://canercetinkaya.com/tr/blog/windows-platform-resilience-endpoint-security-admin-protection-2026/) |
 | `25 Kas 2026` | [Microsoft Intune Ignite 2026: Kurumsal Uç Noktalarda Yerel Yapay Zekâ Ajan Yönetişimi (Agent 365, Software Compliance ve MXC)](https://canercetinkaya.com/tr/blog/intune-ai-agent-governance-software-compliance-mxc-2026/) |
-| `25 Kas 2026` | [Microsoft Intune Ignite 2026: Cihaz Düzeyi Uygulama Envanteri, EAM Otomatik Güncellemeleri, App In-Use Detection ve CIS Windows 11 Denetimi](https://canercetinkaya.com/tr/blog/intune-app-inventory-eam-autoupdate-cis-benchmark-2026/) |
-| `25 Kas 2026` | [Microsoft Intune Ignite 2026: Microsoft Perception ile Doğal Dille İnceleme, Gerçek Zamanlı Envanter ve Remote Help Tanılama](https://canercetinkaya.com/tr/blog/intune-microsoft-perception-natural-language-investigation-2026/) |
-| `25 Kas 2026` | [Microsoft Intune Ignite 2026: Vulnerability Remediation Agent ve Microsoft Perception ile Maruziyet Azaltma](https://canercetinkaya.com/tr/blog/intune-vulnerability-remediation-agent-perception-2026/) |
-| `25 Kas 2026` | [Microsoft Intune Ignite 2026: Windows Server Yönetimi (Insider Preview), Windows Autopatch ve Azure Arc Sınırları](https://canercetinkaya.com/tr/blog/intune-windows-server-management-autopatch-arc-2026/) |
-| `24 Kas 2026` | [TenantBrief: Microsoft 365 Güvenlik Duruşunu ve Lisans İsrafını Tek Karar Yüzeyinde Buluşturmak](https://canercetinkaya.com/tr/blog/tenantbrief-m365-lisans-roi-uyumluluk-analizi/) |
 <!-- BLOG-POST-LIST:END -->
 
 ---
